@@ -1,0 +1,2 @@
+brawlstats==4.1.0
+Jinja2==2.11.2
